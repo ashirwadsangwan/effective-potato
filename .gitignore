@@ -3,9 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# data
+data
+
 # C extensions
 *.so
-
+**/.DS_Store
 # Distribution / packaging
 .Python
 build/

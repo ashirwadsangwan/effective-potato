@@ -1,0 +1,10 @@
+beautifulsoup4 
+brotlipy
+bs4
+html5lib
+nltk
+numpy 
+pandas
+regex
+requests 
+
